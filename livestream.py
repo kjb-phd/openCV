@@ -1,7 +1,7 @@
 import cv2
 
 
-capture = cv2.VideoCapture("http://192.168.1.100/video")
+capture = cv2.VideoCapture("http://192.168.1.x/video")
 
 
 while(True):
